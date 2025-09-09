@@ -1,5 +1,3 @@
-# GMM_COMMUTER
-Gaussian Mixture Model pipeline for commuter flow estimation (FIN–SWE, NOR–SWE, DEN–SWE)
 # Commuter Flow Estimation with Gaussian Mixture Models (GMM)
 
 This repository contains the implementation, experiments, and results of my internship project on **cross-border commuter flow estimation** using **Gaussian Mixture Models (GMM)**.  
