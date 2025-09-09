@@ -106,7 +106,7 @@ Open JupyterLab or VSCode and explore the notebooks in order (start with `00_dat
 If you use this code or methodology in your own work, please cite the reference paper and mention this repository.
 
 ```bibtex
-@misc{gmm_commuter2023,
+@misc{gmm_commuter2025,
   author       = {Fares Memmi},
   title        = {Commuter Flow Estimation with Gaussian Mixture Models (GMM)},
   year         = {2025},
