@@ -4,8 +4,8 @@ This repository contains the implementation, experiments, and results of my inte
 The work reproduces and extends the methodology presented in the reference paper:
 
 > **Reference:**  
-> [DST 2023 Manuscript: *Gaussian Mixture Models for Commuter Flow Estimation*](https://arxiv.org/abs/...)  
-> (add DOI or arXiv link if available)
+> [Extracting Commuters from Automated Road Traffic Counters: A Gaussian Mixture Approach*](https://www.researchgate.net/publication/391702221_Extracting_Commuters_from_Automated_Road_Traffic_Counters_A_Gaussian_Mixture_Approach)  
+>
 
 ---
 
