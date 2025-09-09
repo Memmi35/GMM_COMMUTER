@@ -1,0 +1,11 @@
+# Ignore large data files
+data/*.zip
+data/*.csv
+data/*.pkl
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
